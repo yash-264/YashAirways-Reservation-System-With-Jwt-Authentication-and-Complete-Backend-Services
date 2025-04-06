@@ -6,6 +6,8 @@
 
 Welcome to the **YashAirways Reservation System**, a full-fledged backend application built with **Java Spring Boot** that simulates a real-world airline ticket booking and reservation system. It supports **user and admin roles**, **JWT authentication**, **PDF ticket generation**, **email notifications**, and much more.
 
+🔗 Live API Base URL: [https://yashairways-reservation-system-w-production.up.railway.app/check].
+
 ---
 
 ## 🚀 Features
