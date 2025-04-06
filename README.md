@@ -100,6 +100,7 @@ Real-time email service integration
 Secure role-based access control
 
 🙋‍♂️ Author
+
 Yash Gupta
 
 📧 guptay264@gmail.com
